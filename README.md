@@ -1,2 +1,2 @@
 # TelaComApresentacao
-Uma tela inicial em html css, com uma apresentação de fundo 
+Uma tela inicial em html e css, com uma apresentação de fundo.
